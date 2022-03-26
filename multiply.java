@@ -16,7 +16,7 @@ public class sum {
 
          System.out.println(a+b);  // Modified in multifly 
 
-
+System.out.println(a+b);  // Modification clone
 
     }
 }
