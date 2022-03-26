@@ -1,14 +1,6 @@
-public class div{
 
 
-public static void main(String[] args){
+/**Pavan Code start Here */
 
-int b = 20 ;
-int a = 10 ;
+/**Pavan Code End Here */
 
-int c = b / a ;
-
-System.out.println(c);
-
-}
-}
